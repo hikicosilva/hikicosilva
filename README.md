@@ -1,2 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineering - Studying 2° Period<br>🐍 Python Developer - Back End<br>📊 Database Analytics - Big Data<br>🌎 English, Portuguese and Spanish
+- 👨‍💻 Software Engineering - Studying 2° Period
+- 🐍 Python Developer - Back End
+- 📊 Database Analytics - Big Data
+- 🌎 English, Portuguese and Spanish
