@@ -75,12 +75,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hikicosilva/hikicosilva/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hikicosilva/hikicosilva/output/pacman-contribution-graph.svg">
 </picture>
+
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/315iud37rmfdliumlcgivz5aweqi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315iud37rmfdliumlcgivz5aweqi&count=3" alt="Spotify recently played"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hikicosilva.hikicosilva&"  />
 </div>
 
 ###
