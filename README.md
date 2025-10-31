@@ -1,8 +1,8 @@
-<h1 align="left">👋Hello, I am Henrique</h1>
+<h1 align="center">👋Hello, I am Henrique</h1>
 
 ###
 
-<p align="left">I am a Data Analyst</p>
+<h3 align="center">I am a Data Analyst</h3>
 
 ###
 
@@ -12,17 +12,40 @@
 
 <br clear="both">
 
-<img align="right" height="140" src="https://giffiles.alphacoders.com/362/36246.gif"  />
+<img align="right" height="500" src="https://giffiles.alphacoders.com/362/36246.gif"  />
 
 ###
 
-<p align="left">👨‍💻 Software Engineering - Studying 2° Period<br>🐍 Python Developer - Back End<br>📊 Database Analytics - Big Data<br>🌎 English, Portuguese and Spanish</p>
+<p align="left">• 👨‍💻 Software Engineering - Studying 2° Period<br><br>• 🐍 Python Developer - Back End<br><br>• 📊 Database Analytics - Big Data<br><br>•  🐧Linux Ubuntu Expert  <br><br>• 🤖 IA Machine Learning<br><br>• 🌎 English, Portuguese and Spanish</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Contact with me:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/henriquecosilva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@henriquesilva02" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://outlook.com/henriquecosilva@outlook.com.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Skills:</h2>
 
 ###
 
@@ -49,23 +72,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hikicosilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hikicosilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/henriquecosilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@henriquesilva02" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://outlook.com/henriquecosilva@outlook.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=hikicosilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=hikicosilva&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hikicosilva&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
