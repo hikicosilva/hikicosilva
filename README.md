@@ -1,72 +1,64 @@
-![MasterHead](https://github.com/hikicosilva/hikicosilva/blob/main/github-header-banner.png?raw=true)
-<h1 align="center">👋Hello, I am Henrique</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
-<h3 align="center">I am a Data Analyst</h3>
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHZ5djk2dThiazFzZ2JlM245NXY5ZGRncGl3YTdqaTg4emJvcXV1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/200.gif"  />
+</div>
 
 ###
 
-<h2 align="left">💫 About Me:</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="500" src="https://giffiles.alphacoders.com/362/36246.gif"  />
-
-###
-
-<p align="left">• 👨‍💻 Software Engineering - Studying 2° Period<br><br>• 🐍 Python Developer - Back End<br><br>• 📊 Database Analytics - Big Data<br><br>•  🐧Linux Ubuntu Expert  <br><br>• 🤖 IA Machine Learning<br><br>• 🌎 English, Portuguese and Spanish</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Contact with me:</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/henriquecosilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="discordapp.com/users/1349069318972903485" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@henriquesilva02" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://outlook.com/henriquecosilva@outlook.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hikicosilva.hikicosilva&"  />
+</div>
 
-<h2 align="left">Skills:</h2>
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">💫 About Me:</h3>
+
+###
+
+<p align="left">• 👨‍💻 Software Engineering - Studying 2° Period<br><br>•  ♨️ Java Developer - Back End<br><br>• 🐧Linux Fedora User<br><br>• 🌎 English, Portuguese and Spanish</p>
+
+###
+
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -88,8 +80,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hikicosilva.hikicosilva&"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
