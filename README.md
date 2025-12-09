@@ -1,25 +1,24 @@
-# About Me
+# Professional Summary
 
-I'm Dida, an aspiring Data Analyst focused on building clear, objective, and business-driven data projects. I am currently studying Python, SQL, Power BI, and applied Statistics to develop a strong technical foundation and transition into the data field with confidence and consistency.
+Data Analyst focused on clean, reliable, and business-driven data insights. I work with Python, SQL, and BI tools to transform raw data into structured analysis and clear decision support.
 
-## Technologies & Tools
-- Python (Pandas, NumPy, Matplotlib)
-- SQL (PostgreSQL, MySQL)
-- Power BI
-- Advanced Excel
-- Jupyter Notebook
+## Core Skills
+- Data cleaning, transformation, and exploratory analysis  
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL (queries, joins, aggregations, optimization basics)  
+- KPI design and dashboard creation (Power BI)  
+- Statistics for analysis and data validation  
+
+## Tools
+Python • Jupyter Notebook • PostgreSQL • MySQL • Power BI • Excel • Git/GitHub
 
 ## Projects
-- E-commerce Sales Analysis – Python, exploratory analysis, data visualization  
-- Business KPI Dashboard – Power BI  
-- Financial Exploratory Data Analysis – Python  
+- E-commerce Sales Analysis (Python)  
+- Business KPI Dashboard (Power BI)  
+- Financial Exploratory Analysis (Python)
 
-*(New projects coming soon.)*
-
-## Currently Studying
-- Data Science Academy – Data Analysis Program  
-- Complete Data Analyst Bootcamp – Krish Naik  
-- Daily practice in Python, problem solving, and data analytics
+## Learning Focus
+Advanced Python for Analytics • SQL Optimization • Applied Statistics
 
 ## Contact
 - Email: henriquecosilva@outlook.com.br
