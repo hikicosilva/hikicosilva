@@ -1,40 +1,26 @@
-# 👋 Olá! Eu sou o Dida  
-### 📊 Analista de Dados em Formação
+# About Me
 
-Atualmente estudo profundamente Python, SQL, Power BI e Estatística aplicada. Meu foco é desenvolver projetos sólidos e claros, que transformem dados em decisões reais. Estou construindo meu portfólio com projetos práticos e profissionais de análise de dados.
+I'm Dida, an aspiring Data Analyst focused on building clear, objective, and business-driven data projects. I am currently studying Python, SQL, Power BI, and applied Statistics to develop a strong technical foundation and transition into the data field with confidence and consistency.
 
----
-
-## 🚀 Tecnologias e Ferramentas
+## Technologies & Tools
 - Python (Pandas, NumPy, Matplotlib)
 - SQL (PostgreSQL, MySQL)
 - Power BI
-- Excel Avançado
+- Advanced Excel
 - Jupyter Notebook
 
----
+## Projects
+- E-commerce Sales Analysis – Python, exploratory analysis, data visualization  
+- Business KPI Dashboard – Power BI  
+- Financial Exploratory Data Analysis – Python  
 
-## 📂 Projetos Principais
-- **Análise de Vendas E-commerce** – Python, Pandas, Visualização  
-- **Dashboard de KPIs de Negócio** – Power BI  
-- **Análise Exploratória de Dados Financeiros** – Python
+*(New projects coming soon.)*
 
-*(Mais projetos sendo adicionados em breve.)*
-
----
-
-## 📚 Atualmente Estudando
-- Data Science Academy – Formação em Análise de Dados  
+## Currently Studying
+- Data Science Academy – Data Analysis Program  
 - Complete Data Analyst Bootcamp – Krish Naik  
-- Lógica de Programação e desafios diários em Python
+- Daily practice in Python, problem solving, and data analytics
 
----
-
-## 📫 Contato
-- **E-mail:** henriquecosilva@outlook.com.br  
-- **LinkedIn:** www.linkedin.com/in/henriquecosilva
-
----
-
-## ⚡ Sobre mim
-Sou dedicado, disciplinado e focado em construir uma carreira sólida como Analista de Dados. Busco sempre aprender, evoluir e aplicar tudo o que estudo em projetos reais.  
+## Contact
+- Email: henriquecosilva@outlook.com.br
+- LinkedIn: www.linkedin.com/in/henriquecosilva
