@@ -1,24 +1,24 @@
 # Professional Summary
 
-Data Analyst focused on clean, reliable, and business-driven data insights. I work with Python, SQL, and BI tools to transform raw data into structured analysis and clear decision support.
+Backend-focused Software Engineer in training, specializing in Java and the Spring ecosystem. I work with clean architecture principles, RESTful services, and efficient backend design. My focus is on writing robust, maintainable, and well-structured code while operating in a Linux-based development environment.
 
 ## Core Skills
-- Data cleaning, transformation, and exploratory analysis  
-- Python (Pandas, NumPy, Matplotlib)  
-- SQL (queries, joins, aggregations, optimization basics)  
-- KPI design and dashboard creation (Power BI)  
-- Statistics for analysis and data validation  
+- Java development with focus on backend architecture  
+- Spring Boot (REST APIs, dependency injection, configuration, controllers) 
+- Object-Oriented Programming and clean code practices
+- SQL fundamentals for backend integration (queries, joins, modeling basics)
+- Linux (Fedora) for development workflows and environment optimization
+- Git and GitHub for version control and project organization 
 
 ## Tools
-Python • Jupyter Notebook • PostgreSQL • MySQL • Power BI • Excel • Git/GitHub
+Java • Spring Boot • Maven • PostgreSQL • MySQL • Linux (Fedora) • Git/GitHub • IntelliJ IDEA • Docker (in progress)
 
 ## Projects
-- E-commerce Sales Analysis (Python)  
-- Business KPI Dashboard (Power BI)  
-- Financial Exploratory Analysis (Python)
+- Java Exercises Collection
+Repository with structured programming and OOP exercises developed as part of my Java training, demonstrating command over fundamentals and clean coding patterns.
 
 ## Learning Focus
-Advanced Python for Analytics • SQL Optimization • Applied Statistics
+Spring Boot deep dive • API design and best practices • Databases and SQL for backend integration • Linux for development • Clean Architecture • Design Patterns
 
 ## Contact
 - Email: henriquecosilva@outlook.com.br
