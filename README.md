@@ -1,5 +1,5 @@
 # Professional Summary
-Backend-focused Software Engineer in training, specializing in Java and the Spring ecosystem. I work with clean architecture principles, RESTful services, and efficient backend design. My focus is on writing robust, maintainable, and well-structured code while operating in a Linux-based development environment.
+Aspiring Game Developer specializing in C# and the Unity ecosystem. I focus on creating interactive and efficient game systems, adhering to clean coding and object-oriented programming principles. Experienced in developing gameplay mechanics, managing game assets, and building maintainable code for scalable game projects. Comfortable working in both Windows and Linux development environments.
 
 ## Core Skills
 - C# development with focus on game systems and object-oriented design
