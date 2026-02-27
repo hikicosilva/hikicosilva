@@ -1,24 +1,20 @@
 # Professional Summary
-
 Backend-focused Software Engineer in training, specializing in Java and the Spring ecosystem. I work with clean architecture principles, RESTful services, and efficient backend design. My focus is on writing robust, maintainable, and well-structured code while operating in a Linux-based development environment.
 
 ## Core Skills
-- Java development with focus on backend architecture  
-- Spring Boot (REST APIs, dependency injection, configuration, controllers) 
-- Object-Oriented Programming and clean code practices
-- SQL fundamentals for backend integration (queries, joins, modeling basics)
-- Linux (Fedora) for development workflows and environment optimization
-- Git and GitHub for version control and project organization 
+- C# development with focus on game systems and object-oriented design
+- Unity Engine (scene management, prefabs, animations, physics, input systems)
+- Game mechanics implementation and scripting for interactive experiences
+- Understanding of game architecture patterns (MVC, component-based design)
+- Basic 2D/3D graphics handling and asset management
+- Git and GitHub for version control and collaborative game projects
+- Debugging, performance optimization, and iterative development workflows
 
 ## Tools
-Java • Spring Boot • Maven • PostgreSQL • MySQL • Linux (Fedora) • Git/GitHub • IntelliJ IDEA • Docker (in progress)
-
-## Projects
-- Java Exercises Collection
-Repository with structured programming and OOP exercises developed as part of my Java training, demonstrating command over fundamentals and clean coding patterns.
+C# • Unity • Visual Studio • Git/GitHub • Blender (basic) • Photoshop/GIMP (basic) • Windows
 
 ## Learning Focus
-Spring Boot deep dive • API design and best practices • Databases and SQL for backend integration • Linux for development • Clean Architecture • Design Patterns
+Unity advanced scripting • Gameplay systems architecture • Physics & AI programming in Unity • 2D/3D graphics workflow • Optimization and performance in games • Version control for game projects • Multiplayer/Networking basics in Unity
 
 ## Contact
 - Email: henriquecosilva@outlook.com.br
